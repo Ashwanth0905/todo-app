@@ -1,4 +1,3 @@
-# todo.py
 
 def load_tasks():
     try:
